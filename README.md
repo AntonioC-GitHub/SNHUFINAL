@@ -20,5 +20,15 @@ What about the process of working through a design document did you find helpful
 
 
 If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+- I think I could have done a better job in the first few sections because I got a poor grade on those since I did not know how my professor was going to grade my project.
+- After realizing how she grades and what she looks for, I got better grades on the rest of my packet. I would go back and make my packet extremely detailed and really in depth so this way I would have recieved a better grade across the term.
+
+
 How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
+- The user required the ability for games to be played one at a time by establishing unique identifiers for each instance of the game while also being able to be played anywhere and everywhere.
+- This was important because since this was their main goal this is what the majoirty of my focus had to be around when building out the software design packet. Learning what servers to build it on and the best operating system that works on everything were very important in this process.
+
+
 How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+- I never used a software design packet before so I was just figuring it out as I went. For next time I will reference this one in the future as a baseline example when making future packets since I have the expereince of building a software design packet and then improve
+- each and every future software design packet from this point on to be the best computer science major in my ability. 
