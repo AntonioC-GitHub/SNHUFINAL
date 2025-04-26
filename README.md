@@ -1,5 +1,6 @@
 # SNHUFINAL
 Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+- The Gaming Room wants to develop a web-based game that serves multiple platforms based on their current game Draw it or Lose it which is currently only on Android. In Draw it or Lose it the user sees images rendered at 30 second intervals
 What did you do particularly well in developing this documentation?
 What about the process of working through a design document did you find helpful when developing the code?
 If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
